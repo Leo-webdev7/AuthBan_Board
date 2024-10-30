@@ -20,5 +20,7 @@ export const authenticateToken = (req: Request, res: Response, next: NextFunctio
 
     req.user = decoded as JwtPayload;
     next(); // Proceed to the next middleware/route handler
+    return
   });
+  return;
 };
