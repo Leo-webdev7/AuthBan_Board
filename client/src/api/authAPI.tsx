@@ -1,7 +1,7 @@
 import { UserLogin } from "../interfaces/UserLogin";
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000/auth'
+const API_URL = '/auth'
 
 const login = async (userInfo: UserLogin) => {
   // TODO: make a POST request to the login route
