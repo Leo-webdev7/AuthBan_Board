@@ -105,6 +105,8 @@ Walkthrough Video - https://drive.google.com/file/d/13ZK1U6Tw3a7rF-xnxjxjrC4ebIn
 
 Git Hub repository - https://github.com/Leo-webdev7/AuthBan_Board
 
+Render link - https://authban-board.onrender.com
+
 ## License
 
 This application is covered under the MIT license.
