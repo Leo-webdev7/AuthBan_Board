@@ -41,7 +41,17 @@ class AuthService {
     // TODO: remove the token from localStorage
     localStorage.removeItem('idToken');
     // TODO: redirect to the login page
-    window.location.href = '/login'
+    // The redirection will be handled by the calling component
+  }
+
+  timeLogout () {
+    localStorage.removeItem('idToken');
+    window.location.href = '/';
+  }
+
+  startSessionTimer() { // Set session to expire after 30 minutes of inactivity 
+    const timeout = 30 * 60 * 1000; 
+    setTimeout(() => { this.timeLogout(); }, timeout); 
   }
 }
 
