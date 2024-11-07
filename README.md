@@ -101,6 +101,9 @@ Session Expiration: Inactivity leads to session expiration and redirection to th
 
 ## Links
 
+Walkthrough Video - https://drive.google.com/file/d/13ZK1U6Tw3a7rF-xnxjxjrC4ebInZyZZ9/view?usp=sharing
+
+Git Hub repository - https://github.com/Leo-webdev7/AuthBan_Board
 
 ## License
 
