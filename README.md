@@ -86,6 +86,17 @@ Session Expiration: Inactivity leads to session expiration and redirection to th
 
 ## Screenshots
 
+![2024-11-07_154938](https://github.com/user-attachments/assets/a547b689-67c7-41a8-9b76-87156a902b4f)
+
+![2024-11-07_155008](https://github.com/user-attachments/assets/f49b638b-50e6-4b46-83f4-49354ec32b28)
+
+![2024-11-07_155043](https://github.com/user-attachments/assets/d4b7c2c5-3556-4a60-b9e8-7bb11aed3537)
+
+![2024-11-07_155107](https://github.com/user-attachments/assets/6820f3d2-be65-4b61-9dda-d59d885fbec9)
+
+### Default Users that you can use.
+
+![2024-11-07_155146](https://github.com/user-attachments/assets/386e2746-07a9-4bb1-a671-41464848840b)
 
 
 ## Links
